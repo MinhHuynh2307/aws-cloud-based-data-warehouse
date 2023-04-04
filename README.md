@@ -28,7 +28,7 @@ Sparkify S3 to Redshift ETL
 
 ## 3. Files
 
-**`Cloud DWH project.ipynb`** This notebook describes **8 STEPS** of the project.
+**`cloud-based-dwh.ipynb`** This notebook describes **8 STEPS** of the project.
 - STEP 0: Save the AWS Access key
 - STEP 1: Create a new IAM Role¶
 - STEP 2: Create a Redshift Cluster
