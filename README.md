@@ -7,7 +7,6 @@ The project aims to build an ETL pipeline that extracts their data from S3, stag
 
 <center>
 <img style="float: center;height:450px;" src="images/sparkify-s3-to-redshift-etl.png"><br><br>
-Sparkify S3 to Redshift ETL
 </center>
 
 ## 2. Schema for Song Play Analysis
